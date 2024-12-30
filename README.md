@@ -1,4 +1,6 @@
-## Hi there 👋
+## hellooo
+
+I am Koos and I study aerospace engineering. I am interested in using programming to make public data easily accessible and clear to the public with little technical experience. You can always contact me if you have ideas for cool projects! (although I am notorious for always being busy)
 
 <!--
 **kooskooskooskoos/kooskooskooskoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
